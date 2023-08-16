@@ -1,6 +1,6 @@
 # Carlos Feliz
 📧 Email: carlosjfeliz7@gmail.com  
-📞 Phone: +1 829-365-1974  
+📞 Phone: [+1 829-365-1974](https://wa.me/18293651974)
 🔗 LinkedIn: [linkedin.com/in/carlos-feliz](https://www.linkedin.com/in/carlos-feliz)
 
 ## Summary
