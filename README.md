@@ -1,10 +1,6 @@
 # Carlos Feliz
-📧 Email: carlosjfeliz7@gmail.com  
-📞 Phone: [+1 829-365-1974](https://wa.me/18293651974)    
-🔗 LinkedIn: [linkedin.com/in/carlos-feliz](https://www.linkedin.com/in/carlos-feliz)
-
 ## Summary
-Dedicated IT professional with almost a decade of experience in front-end development and design. Passionate about creating intuitive and visually appealing user experiences. Proficient in JavaScript frameworks, collaborative teamwork, and adaptable to new technologies. Strong critical thinking skills with a focus on goal-oriented tasks.
+Dedicated IT professional with almost a decade of experience in front-end development and design. Passionate about creating intuitive and visually appealing user experiences. Proficient in JavaScript frameworks, collaborative teamwork, and adaptability to new technologies. Strong critical thinking skills with a focus on goal-oriented tasks.
 
 ## Technical Skills
 - **Operating Systems:** Windows, Linux, macOS
@@ -58,5 +54,5 @@ Dedicated IT professional with almost a decade of experience in front-end develo
 
 ## Contact
 📧 Email: carlosjfeliz7@gmail.com  
-📞 Phone: +1 829-365-1974  
+📞 Phone: [+1 829-365-1974](https://wa.me/18293651974)    
 🔗 LinkedIn: [linkedin.com/in/carlos-feliz](https://www.linkedin.com/in/carlos-feliz)
